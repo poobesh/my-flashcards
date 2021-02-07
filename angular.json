@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "flash-cards"
+  "defaultProject": "flash-cards",
+  "cli": {
+    "analytics": false
+  }
 }
